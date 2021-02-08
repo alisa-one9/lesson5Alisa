@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lesson5Alisa</string>
+    <string name="txtName">имя:</string>
+    <string name="txtPhone">номер тел:</string>
+    <string name="btn_add">добавить</string>
+    <string name="persondata">personData</string>
+    <string name="personName" />
+    <string name="phone">phone</string>
+    <string name="save">сохранить</string>
+    <string name="delete" />
+    <string name="call" />
+
+</resources>
